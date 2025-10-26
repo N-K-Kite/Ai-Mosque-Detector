@@ -2,6 +2,9 @@
 An Ai model i built that detects mosques ( for now ) and displays DO NOT ENGAGE in ( drone, warship , aircraft ) aerial imagery , and prevents them from engaging said location in accordance with IHL, unless provided with an authorization from TOC.
 
 
+due to github's storage limitations, u can find the entirety of the project here:
+https://drive.google.com/drive/folders/1yLaRQnR-Ob71q_tBQ5_edUsz_8ugHgs4?usp=drive_link
+
 ## 🎯 Project Goals
 - Prevent accidental strikes on religious structures
 - Enable safe autonomous drone operations
